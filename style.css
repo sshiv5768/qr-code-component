@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;600&display=swap');
+body{
+    background-color: hsl(225, 19%, 92%);
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+}
+
+.container{
+    padding: 2px;
+}
+
+.footer{
+    margin-top: 10px;
+    text-align: center;
+}
+
+img{
+    border-radius: 5px;
+    margin-top: 10px;
+}
